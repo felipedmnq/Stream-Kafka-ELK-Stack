@@ -9,7 +9,7 @@ Streaming weather data using Apache Kafka and Elastic Stack.
 </p>
 
 <h3 align="center">
-  Kibana Streaming Dashboard
+  Kibana Weather Dashboard
 </h3>
 
 <p align="center">
