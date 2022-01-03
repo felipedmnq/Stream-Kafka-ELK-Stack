@@ -5,5 +5,5 @@
 Streaming weather data using Apache Kafka and Elastic Stack.
 
 <p align="center">
-  <img width="830" alt="Screen Shot 2021-11-11 at 17 46 57" src="https://github.com/felipedmnq/streaming-weather-kafka/blob/master/images/Screen%20Shot%202021-12-23%20at%2008.45.30.png?raw=true">
+  <img width="830" alt="Screen Shot 2021-11-11 at 17 46 57" src="https://github.com/felipedmnq/Stream-Kafka-ELK-Stack/blob/master/images/Screen%20Shot%202022-01-03%20at%2018.45.18.png?raw=true">
 </p>
